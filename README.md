@@ -1,2 +1,9 @@
-# dont-take-last-game
-A game where you play against the computer to avoid taking the final item from a pile. Based on a version for only 15 items, expanded to be used to teach about modular math.
+# Don't Take Last
+(Take 1-3 Game)
+Command-line game where players alternate taking items from a pile.
+The player who takes the last item loses.
+## Files
+- 15 takeaway_03.py
+- 15takeaway_05.py
+## How to run
+python3 15takeaway_05.py
